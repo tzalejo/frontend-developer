@@ -1,0 +1,21 @@
+{
+  "name": "frontend-developer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server",
+    "dev": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzalejo/frontend-developer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzalejo/frontend-developer/issues"
+  },
+  "homepage": "https://github.com/tzalejo/frontend-developer#readme"
+}
