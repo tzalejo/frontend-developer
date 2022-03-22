@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server",
-    "dev": "nodemon start"
+    "start": "http-server"
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tzalejo/frontend-developer/issues"
   },
-  "homepage": "https://github.com/tzalejo/frontend-developer#readme"
+  "homepage": "https://github.com/tzalejo/frontend-developer#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
